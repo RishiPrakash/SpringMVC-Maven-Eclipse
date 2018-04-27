@@ -15,3 +15,7 @@ SpringMVC example built with maven and Eclipse+ApacheTomcat server
 1. $ mvn eclipse:eclipse
 2. Import into Eclipse via existing projects into workspace option.
 3. Done.
+
+
+
+##### Go to wiki for more help
